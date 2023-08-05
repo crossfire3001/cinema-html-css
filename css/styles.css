@@ -122,7 +122,7 @@
     vertical-align: middle;
 }
 
-.main button, a:not(:last-child) {
+.main button, .action-item:not(:last-child) {
     margin-right: 12px;
 }
 
